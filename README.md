@@ -1,16 +1,14 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**atharvlokhande7/atharvlokhande7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Atharv Lokhande, a developer passionate about creating and contributing to innovative projects.
 
-Here are some ideas to get you started:
+## Contributions
+- [reddit-selenium-stack](https://github.com/atharvlokhande7/reddit-selenium-stack) – Automating Reddit tasks with Selenium in Python.
+- [CalorieChef](https://github.com/atharvlokhande7/CalorieChef) – A web app to help users calculate calorie intake.
+- Opened and contributed to issues, PRs, and discussions on various repositories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Achievements
+- **Pull Shark**: Merged several pull requests.
+- **Quickdraw**: Fast on completing pull requests.
+
+Feel free to check out my repositories and contributions below!
