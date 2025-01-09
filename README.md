@@ -1,5 +1,4 @@
 # Hi, I'm Atharv 👋
 
-🌐 [](https://tharv.me)  
-📧 Email: atharv.lokhande@hotmail.com  
+[🌐](https://tharv.me)  
 🔗 [LinkedIn](https://linkedin.com/in/atharv-lokhande) 
