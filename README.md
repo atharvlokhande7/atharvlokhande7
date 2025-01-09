@@ -1,6 +1,4 @@
-# Hi, I'm Atharv Lokhande 👋
-
-Welcome to my GitHub profile! I'm a passionate **Software Developer** and **MSc graduate in Scientific Computing**.
+# Hi, I'm Atharv 👋
 
 🌐 [Personal Website](https://tharv.me)  
 📧 Email: atharv.lokhande@hotmail.com  
